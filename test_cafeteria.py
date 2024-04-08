@@ -27,4 +27,3 @@ from cafeteria import validFormat
 
 def test_validFormat(array, expected):
     assert validFormat(array) == expected
-    
